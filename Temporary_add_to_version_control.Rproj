@@ -11,3 +11,6 @@ Encoding: UTF-8
 
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
+git remote add origin https://github.com/yogi041029/Temporary_add_to_version_control.git
+git branch -M main
+git push -u origin main
